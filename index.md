@@ -37,5 +37,11 @@ He received a Terman fellowship, a NSF CAREER award, and the Distinguished Teach
 
 ## Slides
 
+Coming soon...
 
 ## Additional Resources
+
+- Summary sheet - [file](/assets/img/summary.pdf)
+- Visualizations
+  - [Seeing Theory](https://seeing-theory.brown.edu/)
+- Books
