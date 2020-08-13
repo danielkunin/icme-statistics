@@ -41,7 +41,5 @@ Coming soon...
 
 ## Additional Resources
 
-- Summary sheet - [file](/assets/img/summary.pdf)
-- Visualizations
-  - [Seeing Theory](https://seeing-theory.brown.edu/)
-- Books
+- Summary Sheet - [file](/assets/img/summary.pdf)
+- Statistics Visualizations - [Seeing Theory](https://seeing-theory.brown.edu/)
