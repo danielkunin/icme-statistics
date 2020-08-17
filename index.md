@@ -38,18 +38,10 @@ He received a Terman fellowship, a NSF CAREER award, and the Distinguished Teach
 ## Slides
 
 Download all the slides [here](/assets/img/S1-8.pdf) or individual sessions:
-- Session 1 
-  - [part 1](/assets/img/S1.pdf)
-  - [part 2](/assets/img/S2.pdf)
-- Session 2
-  - [part 1](/assets/img/S3.pdf)
-  - [part 2](/assets/img/S4.pdf)
-- Session 3
-  - [part 1](/assets/img/S5.pdf)
-  - [part 2](/assets/img/S6.pdf)
-- Session 4
-  - [part 1](/assets/img/S7.pdf)
-  - [part 2](/assets/img/S8.pdf)
+- Session 1 ([part 1](/assets/img/S1.pdf), [part 2](/assets/img/S2.pdf))
+- Session 2 ([part 1](/assets/img/S3.pdf), [part 2](/assets/img/S4.pdf))
+- Session 3 ([part 1](/assets/img/S5.pdf), [part 2](/assets/img/S6.pdf))
+- Session 4 ([part 1](/assets/img/S7.pdf), [part 2](/assets/img/S8.pdf))
 
 ## Additional Resources
 
